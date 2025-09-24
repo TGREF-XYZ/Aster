@@ -22,7 +22,7 @@ Official site: [https://www.asterdex.com/](https://www.asterdex.com/en/referral/
 
 ## Aster DEX Promo Code
 
-**Promo Code: dB3e97**
+**Promo Code: 5C47fb**
 
 Sign up with this code for bonuses and lower trading fees.
 
