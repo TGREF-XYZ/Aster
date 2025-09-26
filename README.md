@@ -140,10 +140,11 @@ No KYC, just link a code in Rewards. Bigger teams (2K+ members) multiply faster.
 
 ### Quick Start: 5-Minute Setup
 
-1. Sign up on [Aster DEX](https://www.asterdex.com/en/referral/5C47fb)  
-2. Deposit BNB/USDT  
-3. Transfer to Perp Wallet  
-4. Bind a team code  
+1. Sign up on [Aster DEX](https://www.asterdex.com/en/referral/5C47fb)
+2. Sign up Promo Code: 5C47fb (Sign up with this code for bonuses and lower trading fees.)
+3. Deposit BNB/USDT  
+4. Transfer to Perp Wallet  
+5. Bind a team code  
 
 Weekly routine: run $2K volume + passive holds → earn 5K–20K points (~$8K–$34K at $1.70). Bigger accounts are farming six figures with just $5K.  
 
