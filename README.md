@@ -4,7 +4,7 @@
 
 Aster DEX is a decentralized contract trading exchange backed by Binance Labs, and it’s seen as one of the standout DeFi projects in 2025. The idea is simple yet pretty powerful: give users a way to trade crypto with stronger security, more transparency, and extra perks through reward programs.
 
-<img width="2699" height="1589" alt="image" src="https://github.com/user-attachments/assets/854b344d-e96b-49c4-8e94-564a807bd783" />
+<img width="2699" height="1589" alt="image" src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*ElWG4pH6WLwt0vtlEL7RpA.jpeg" />
 
 The setup uses a two-point system: **Au points** (you earn these by staking mainstream cryptos) and **Rh points** (tied to contract trading). Aster also makes a name for itself by being the first DEX to work with USD1 in trading, which widens its appeal and liquidity. Even CZ, the former Binance CEO, has shown his support publicly, which boosts the project’s credibility.
 
